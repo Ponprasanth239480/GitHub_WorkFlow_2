@@ -1,0 +1,3 @@
+C:\Users\admin\source\repos\GitHbWorkFlow\GitHbWorkFlow\obj\Debug\GitHbWorkFlow.njsproj.AssemblyReference.cache
+C:\Users\admin\source\repos\GitHbWorkFlow\GitHbWorkFlow\obj\Debug\GitHbWorkFlow.njsproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GitHbWorkFlow\GitHbWorkFlow\bin\Microsoft.NodejsTools.WebRole.dll
